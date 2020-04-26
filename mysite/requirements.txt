@@ -1,0 +1,26 @@
+appdirs==1.4.3
+asgiref==3.2.3
+astroid==2.3.3
+autopep8==1.4.4
+cycler==0.10.0
+distlib==0.3.0
+-e git+https://github.com/django/django.git@2a2ea4ee18fdcf2c95bf6435bc63b74623e3085b#egg=Django
+django-crispy-forms==1.9.0
+filelock==3.0.12
+isort==4.3.21
+kiwisolver==1.1.0
+lazy-object-proxy==1.4.3
+matplotlib==3.1.2
+mccabe==0.6.1
+numpy==1.17.4
+pep8==1.7.1
+Pillow==7.1.1
+pycodestyle==2.5.0
+pylint==2.4.4
+pyparsing==2.4.5
+python-dateutil==2.8.1
+pytz==2019.3
+six==1.13.0
+sqlparse==0.3.0
+virtualenv==20.0.18
+wrapt==1.11.2
